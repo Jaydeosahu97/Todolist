@@ -1,0 +1,21 @@
+#name{
+  border-radius: 10px;
+  border-style: solid;
+  border-color: rgb(237, 237, 237);
+  padding: 8px;
+  margin: 10px;
+  width: auto;
+}
+
+#submitBtn{
+  padding: 10px 45px;
+  border-radius: 30px;
+  /* border-style: ; */
+  border-color: darkcyan;
+  transition: 150ms ease-in-out;
+}
+#submitBtn:hover{
+  background-color: darkcyan;
+  border-style: none;
+  color: white;
+}
