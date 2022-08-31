@@ -1,3 +1,8 @@
+*{
+  margin: 0%;
+  padding: 0%;
+  /* font-family:; */
+}
 #name{
   border-radius: 10px;
   border-style: solid;
@@ -18,4 +23,17 @@
   background-color: darkcyan;
   border-style: none;
   color: white;
+}
+
+.App{
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.myList{
+  /* justify-content: space-between; */
+  width: auto;
+  /* border: 0.05rem solid grey; */
+  /* border-radius: 5px; */
+
 }
